@@ -1,7 +1,21 @@
 ## Hello there! welcome to Arthur's profile 🤘
 
 ### Who am I? 🤔
-#### My name is Arthur Batista, i'm a Computer Science student at UFBA, with completed high school education, seeking the first professional experience in the field of computer science and technology. I have knowledge in basic computing, programming logic, HTML, CSS, JavaScript and Python. I am always seeking to learn more and expand my knowledge in the field.
+#### My name is **Arthur Batista**, I'm a **Computer Science student at UFBA** and currently working as a **Data Analysis intern at Neoenergia**.  
+
+💡 Passionate about **technology, programming and data**, I enjoy solving problems through code and building solutions that make processes more efficient.  
+
+I have experience with:  
+- **Programming & Development**: Python, SQL, Java, JavaScript, TypeScript, React, Next.js, HTML, CSS.  
+- **Data Analysis & Visualization**: Pandas, Matplotlib, Power BI, Streamlit.  
+- **Databases**: SQLite, PrismaORM, SAP HANA (in progress).  
+- **Other skills**: Web Scraping, process automation with Python, executables with GUI for non-technical users.  
+
+🚀 Always seeking to **learn more and grow**, whether in software development, data analysis, or exploring new technologies.  
+
+---
+
+## 🌐 Let's connect!  
 
 [![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://arthur-batista.github.io/portfolio/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arthurbat12.as)
