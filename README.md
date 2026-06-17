@@ -17,7 +17,7 @@ My current stack involves:
 ## 🌐 Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-batista12/)
-[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://arthur-batista.github.io/portfolio/)
+[![Portfolio]([https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://arthur-batista.github.io/portfolio/](https://arthur-batista.github.io/portfolio_eng_dados/))
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-Batista&show_icons=true&theme=tokyonight&hide=stars)
 
